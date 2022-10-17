@@ -8,7 +8,7 @@
 
 ## Imagem do projeto 👀
 
-![preview](./assets/screenshot%20project.png)
+![preview](./src/img/screenshotProjectForm.png)
 
 ### Tecnologias utilizadas
 
